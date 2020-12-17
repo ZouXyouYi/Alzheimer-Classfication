@@ -1,8 +1,8 @@
 # Alzheimer-Classfication
 HNU sit project about Alzheimer Classfication
 
-# group teacher
+# Group Tutor
 HLD
 
-# group member
+# Group Member
 zsy qc lh cyp
